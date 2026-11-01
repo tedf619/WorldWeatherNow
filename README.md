@@ -1,6 +1,6 @@
 # WorldWeatherNow 
 
-A minimalist .NET 10 WinForms application that displays current weather information for a any location in the world.
+A minimalist .NET 10 WinForms application that displays current weather information for any location in the world.
 
 ## Features
 * Great project for getting started with maps and online weather services.
